@@ -129,7 +129,7 @@ def plot_drawdown(returns, drawdown_portfolio=None):
     
     Возвращает:
     None
-    """
+    """ 
     if drawdown_portfolio is None:
         drawdown_portfolio = drawdown(returns)
 
