@@ -41,8 +41,8 @@
 
 ## Контакты
 Если у вас есть вопросы по проекту, вы можете связаться со мной через 
-- Telegram: [Мой профиль ТГ](https://t.me/mari_shi11)
+- Telegram: [Мой профиль ТГ](https://t.me/marina_shishikina)
 - Email:
- ```bash
-  marina_official@mail.ru
+   ```bash
+      marisha.shi21@gmail.com
 
